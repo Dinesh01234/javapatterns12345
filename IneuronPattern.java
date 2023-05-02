@@ -60,7 +60,7 @@ public class IneuronPattern {
 					System.out.print(" ");
 				
 			}
-			System.out.print(" ");   //now print your name 
+			System.out.print(" "); 
 			for(int j=0; j<n; j++)
 			{
 				if(j==0 || j==n-1 || (i==j) )
